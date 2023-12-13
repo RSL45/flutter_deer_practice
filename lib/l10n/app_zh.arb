@@ -1,3 +1,16 @@
 {
-  "helloWorld": "你好！"
+  "helloWorld": "你好！",
+  "verifyCodeLogin": "验证码登录",
+  "pwdLogin": "密码登录",
+  "enterPhoneHint": "请输入账号",
+  "enterPwdHint": "请输入密码",
+  "enterSmsCodeHint": "请输入验证码",
+  "login": "登录",
+  "registerHint": "还没账号？快去注册",
+  "forgetPwd": "忘记密码",
+  "smsCodeRegisterHint": "提示：未注册账号的手机号，请先",
+  "register": "注册",
+  "resetLoginPwd": "重置登录密码",
+  "newPwdHint": "请输入新密码",
+  "confirm": "确认"
 }
